@@ -13,3 +13,7 @@
 **MENTOR NAME:** Neela Santhosh Kumar
 
 # CREATE A JAVA PROGRAM TO READ, WRITE, AND MODIFY TEXT FILES.
+
+# OUTPUT OF THE TASK
+
+![Image](https://github.com/user-attachments/assets/91e2ad8e-2209-483f-a601-f4b66e9e0bd2)
